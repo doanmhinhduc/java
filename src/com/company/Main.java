@@ -1,5 +1,7 @@
 package com.company;
 
+import l1.lab1;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -15,12 +17,15 @@ public class Main {
 //        for (int i=0;i<10;i++){
 //            System.out.println("i="+i);
 //        }
-        Student st ; //khai bao 1 bien có kieu du lieu Student
-        st = new Student(); //tao doi tuong
-        Student st2 = new Student();
-        st.name ="nguyen van an";
-        st2.name ="trinh quang hoa";
-        st.run();
-        st2.run();
+//        Student st ; //khai bao 1 bien có kieu du lieu Student
+//        st = new Student(); //tao doi tuong
+//        Student st2 = new Student();
+//        st.name ="nguyen van an";
+//        st2.name ="trinh quang hoa";
+//        st.run();
+//        st2.run();
+          lab1 st = new lab1();
+          lab1 st2 = new lab1();
+          lab1 st3 = new lab1();
     }
 }
