@@ -1,5 +1,4 @@
-package Kiemtra;
-
+package thihocki;
 public class Hotel {
     String name;
     String location;
@@ -38,4 +37,3 @@ public class Hotel {
         this.owener = owener;
     }
 }
-© 2021 GitHub,
